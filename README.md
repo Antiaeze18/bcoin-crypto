@@ -4,7 +4,7 @@ Bcoin is a web application that simulates a digital mining and reward system, in
 It is designed to demonstrate real-time data handling, user interaction, monetized task flows, and Firebase-powered backend services.
 
 🌐 Live Demo
-👉 ...............ask for it 
+👉 https://bcoin-382da.web.app/
 
 📌 Project Overview
 Bcoin allows users to:
